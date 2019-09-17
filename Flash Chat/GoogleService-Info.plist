@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>668364999418-ap4qe5bjk55eo9hb6a3n4euc1r1tgho9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.668364999418-ap4qe5bjk55eo9hb6a3n4euc1r1tgho9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBZCs-KaFEpwybUSDqNEKUN4XbpHTtxho</string>
+	<key>GCM_SENDER_ID</key>
+	<string>668364999418</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.arada.junglechat</string>
+	<key>PROJECT_ID</key>
+	<string>jungle-chat-82698</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jungle-chat-82698.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:668364999418:ios:0da93a2952f2f1d16b1743</string>
+	<key>DATABASE_URL</key>
+	<string>https://jungle-chat-82698.firebaseio.com</string>
+</dict>
+</plist>
